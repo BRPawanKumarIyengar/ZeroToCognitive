@@ -3,7 +3,7 @@
 .mic_disabled {
 	opacity: 0.7
 }
-.tutorial {background: #040404; color: #D0D0D0;}
+.tutorial {background: #00FF00; color: #020202;}
 
 .navbar {
   margin-bottom: 0px;
@@ -11,8 +11,8 @@
 .speech-only {
 	height: 5.0em;
 	overflow: scroll;
-	color: #0000AA;
-	background-color: white;
+	color: #0000FF;
+	background-color: green;
 	opacity: 0.3;
 	font-size: 1.5em
 }
@@ -39,7 +39,7 @@ tr.hideRow {display: none;}
 	position: absolute;
 	left: 480;
 	top: 50;
-	background: #FDD600;
+	background: #00FF00;
 	color: #008571;
 	overflow: scroll;
 }
@@ -50,12 +50,12 @@ tr.hideRow {display: none;}
 	position: absolute;
 	left: 0;
 	top: 0;
-	background: #FDD600;
+	background: #00FF00;
 	color: #008571;
 	overflow: scroll;
 }
 .cover h1, .cover .h1 { font-size: 3em;}
-.cover .navbar { background-color: #000000;}
+.cover .navbar { background-color: #00FF00;}
 .h2 {font-size: 2em;}
 .col-md-6 {width: 470px;}
 .mic_enabled {
@@ -63,7 +63,7 @@ tr.hideRow {display: none;}
 }
 
 .watson_dialog {
-	color: blue;
+	color: red;
 	font-size: 12px;
 	text-align: right;
 	width: 60%;
@@ -71,7 +71,7 @@ tr.hideRow {display: none;}
 }
 
 .user_dialog {
-	color: black;
+	color: red;
 	font-size: 12px;
 	text-align: left;
 	width: 60%
