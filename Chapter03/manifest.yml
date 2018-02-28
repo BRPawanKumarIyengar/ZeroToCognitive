@@ -4,7 +4,7 @@ applications:
   instances: 1
   domain: mybluemix.net
   name: C2C-pawanku1-LearningWatson
-  host: pkpkpk
+  host: pk8kpk
   disk_quota: 128M
   services:
     - Speech to Text-ws
