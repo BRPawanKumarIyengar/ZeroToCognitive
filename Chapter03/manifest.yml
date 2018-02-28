@@ -3,7 +3,7 @@ applications:
   memory: 128M
   instances: 1
   domain: mybluemix.net
-  name: to-be-deleted-test
+  name:To-Be-Deleted-Test
   host: pk8kpk
   disk_quota: 128M
   services:
