@@ -3,8 +3,8 @@ applications:
   memory: 128M
   instances: 1
   domain: mybluemix.net
-  name: To-Be-Deleted-Test
-  host: pk8kpk
+  name: Delete-Mar-Do
+  host: Delete-Mar-Do
   disk_quota: 128M
   services:
     - Speech to Text-42
