@@ -7,4 +7,4 @@ applications:
   host: kikili
   disk_quota: 128M
   services:
-    - Speech to Text-ph
+    - Speech to Text-5w
