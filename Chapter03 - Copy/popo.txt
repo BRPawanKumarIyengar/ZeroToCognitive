@@ -1,0 +1,12 @@
+api endpoint:   https://api.ng.bluemix.net
+api version:    2.92.0
+user:           pawanku1@in.ibm.com
+org:            Pawan-Learning
+space:          To_Be_Deleted
+API endpoint: https://api.ng.bluemix.net
+
+One Time Code (Get one at https://login.ng.bluemix.net/UAALoginServerWAR/passcode)> 
+Authenticating...
+Credentials were rejected, please try again.
+
+One Time Code (Get one at https://login.ng.bluemix.net/UAALoginServerWAR/passcode)> 
