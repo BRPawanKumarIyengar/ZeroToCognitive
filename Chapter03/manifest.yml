@@ -3,8 +3,9 @@ applications:
   memory: 128M
   instances: 1
   domain: mybluemix.net
-  name: Delete-Mar-Do
-  host: kikili
+  name: C2C-pawanku1-LearningWatson.mybluemix.net
+  host: C2C-pawanku1-LearningWatson.mybluemix.net
   disk_quota: 128M
   services:
-    - Speech to Text-5w
+    - Speech to Text-ws
+    - Text to Speech-dt
