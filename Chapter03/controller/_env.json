@@ -1,0 +1,12 @@
+{
+    "speech_to_text": {
+          "url": "https://stream.watsonplatform.net/speech-to-text/api",
+          "username": "cbce2422-1358-40af-a413-845f3a428a32",
+          "password": "2smWWGZx8MMz"
+    }
+	"text-to-speech" :{
+	  "url": "https://stream.watsonplatform.net/text-to-speech/api",
+      "username": "c7d2a769-dcd4-4e1f-a00d-00eb27ba4e05",
+      "password": "HZDZsT2wiV0n"
+	  }
+}
